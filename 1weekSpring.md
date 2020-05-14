@@ -40,11 +40,6 @@
 
 <br>
 
-- Dependency injection - 
-- Transaction management - 
-
-<br>
-
 <br>
 
 - ### Spring Framework 정의
